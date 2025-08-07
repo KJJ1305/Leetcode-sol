@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/KJJ1305/DSAqleet/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
