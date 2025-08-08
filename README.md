@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0056-merge-intervals) |
+| [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 ## Database
 |  |
