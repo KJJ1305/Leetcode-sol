@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KJJ1305/DSAqleet/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
+| [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
@@ -84,8 +85,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
