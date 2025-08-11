@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KJJ1305/DSAqleet/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
