@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
 ## Queue
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
