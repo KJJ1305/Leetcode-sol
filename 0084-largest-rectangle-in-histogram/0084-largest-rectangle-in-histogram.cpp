@@ -1,11 +1,10 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        
         int n=heights.size();
-        
         vector<int> rse(n,-1),lse(n,-1);
         stack<int> s;
+        
         for(int i=n-1;i>=0;i--){
             while(!s.empty()&&heights[s.top()]>=heights[i]){
                 s.pop();
@@ -33,6 +32,5 @@ public:
             globmax=max(globmax,heights[i]*(rse[i]-lse[i]-1));
         }
         return globmax;
-
     }
 };
