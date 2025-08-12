@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KJJ1305/DSAqleet/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
