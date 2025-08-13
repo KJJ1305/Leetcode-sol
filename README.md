@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/KJJ1305/DSAqleet/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/KJJ1305/DSAqleet/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KJJ1305/DSAqleet/tree/master/0084-largest-rectangle-in-histogram) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/KJJ1305/DSAqleet/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
