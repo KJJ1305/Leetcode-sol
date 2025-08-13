@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KJJ1305/DSAqleet/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KJJ1305/DSAqleet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/KJJ1305/DSAqleet/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
+| [0120-triangle](https://github.com/KJJ1305/DSAqleet/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
