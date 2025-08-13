@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KJJ1305/DSAqleet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
 ## Bit Manipulation
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
