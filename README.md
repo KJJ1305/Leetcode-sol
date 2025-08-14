@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
