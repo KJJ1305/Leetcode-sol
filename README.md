@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/KJJ1305/DSAqleet/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/KJJ1305/DSAqleet/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 ## Sorting
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
+| [0383-ransom-note](https://github.com/KJJ1305/DSAqleet/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KJJ1305/DSAqleet/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
