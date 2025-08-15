@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KJJ1305/DSAqleet/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/KJJ1305/DSAqleet/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KJJ1305/DSAqleet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/KJJ1305/DSAqleet/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KJJ1305/DSAqleet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KJJ1305/DSAqleet/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
