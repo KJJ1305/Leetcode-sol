@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KJJ1305/DSAqleet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
+| [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/KJJ1305/DSAqleet/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KJJ1305/DSAqleet/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
+| [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KJJ1305/DSAqleet/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/KJJ1305/DSAqleet/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/KJJ1305/DSAqleet/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
