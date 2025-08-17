@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KJJ1305/DSAqleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KJJ1305/DSAqleet/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/KJJ1305/DSAqleet/tree/master/1448-maximum-69-number) |
 ## Recursion
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
+| [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KJJ1305/DSAqleet/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
+| [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
