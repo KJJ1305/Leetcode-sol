@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/KJJ1305/DSAqleet/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/KJJ1305/DSAqleet/tree/master/0374-guess-number-higher-or-lower) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KJJ1305/DSAqleet/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
