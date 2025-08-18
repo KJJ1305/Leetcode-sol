@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KJJ1305/DSAqleet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/KJJ1305/DSAqleet/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/KJJ1305/DSAqleet/tree/master/0679-24-game) |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/KJJ1305/DSAqleet/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KJJ1305/DSAqleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KJJ1305/DSAqleet/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/KJJ1305/DSAqleet/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/KJJ1305/DSAqleet/tree/master/1448-maximum-69-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/KJJ1305/DSAqleet/tree/master/0679-24-game) |
 ## Prefix Sum
 |  |
 | ------- |
