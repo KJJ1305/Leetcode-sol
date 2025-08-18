@@ -108,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/KJJ1305/DSAqleet/tree/master/0139-word-break) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/KJJ1305/DSAqleet/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
 |  |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 ## Hash Function
 |  |
