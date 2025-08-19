@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KJJ1305/DSAqleet/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/KJJ1305/DSAqleet/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/KJJ1305/DSAqleet/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 ## Math
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KJJ1305/DSAqleet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KJJ1305/DSAqleet/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/KJJ1305/DSAqleet/tree/master/0086-partition-list) |
 | [0392-is-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0680-valid-palindrome-ii) |
