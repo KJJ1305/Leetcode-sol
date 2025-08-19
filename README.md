@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/KJJ1305/DSAqleet/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/KJJ1305/DSAqleet/tree/master/0679-24-game) |
+| [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/KJJ1305/DSAqleet/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/KJJ1305/DSAqleet/tree/master/0948-sort-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/KJJ1305/DSAqleet/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 ## Sorting
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
 ## Graph
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
