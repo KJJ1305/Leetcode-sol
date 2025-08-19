@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/KJJ1305/DSAqleet/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/KJJ1305/DSAqleet/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KJJ1305/DSAqleet/tree/master/0954-maximum-sum-circular-subarray) |
+| [1039-find-the-town-judge](https://github.com/KJJ1305/DSAqleet/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KJJ1305/DSAqleet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
+| [1039-find-the-town-judge](https://github.com/KJJ1305/DSAqleet/tree/master/1039-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1039-find-the-town-judge](https://github.com/KJJ1305/DSAqleet/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
