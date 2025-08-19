@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KJJ1305/DSAqleet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/KJJ1305/DSAqleet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/KJJ1305/DSAqleet/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/KJJ1305/DSAqleet/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
