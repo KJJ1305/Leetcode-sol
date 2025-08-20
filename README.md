@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/KJJ1305/DSAqleet/tree/master/0463-island-perimeter) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/KJJ1305/DSAqleet/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KJJ1305/DSAqleet/tree/master/0209-minimum-size-subarray-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0374-guess-number-higher-or-lower](https://github.com/KJJ1305/DSAqleet/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/KJJ1305/DSAqleet/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KJJ1305/DSAqleet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KJJ1305/DSAqleet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
