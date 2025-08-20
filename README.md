@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KJJ1305/DSAqleet/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/KJJ1305/DSAqleet/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KJJ1305/DSAqleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KJJ1305/DSAqleet/tree/master/0342-power-of-four) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/KJJ1305/DSAqleet/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/KJJ1305/DSAqleet/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/KJJ1305/DSAqleet/tree/master/0139-word-break) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KJJ1305/DSAqleet/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/KJJ1305/DSAqleet/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KJJ1305/DSAqleet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
