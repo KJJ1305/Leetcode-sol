@@ -17,7 +17,6 @@ public:
                 l++;
             }
             rescunt=max(rescunt,r-l+1);
-            cout<<rescunt<<endl;
             r++;
         }
         return rescunt-1;
