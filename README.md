@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KJJ1305/DSAqleet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KJJ1305/DSAqleet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KJJ1305/DSAqleet/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KJJ1305/DSAqleet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2058-concatenation-of-array](https://github.com/KJJ1305/DSAqleet/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KJJ1305/DSAqleet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2529-range-product-queries-of-powers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KJJ1305/DSAqleet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KJJ1305/DSAqleet/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KJJ1305/DSAqleet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KJJ1305/DSAqleet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
