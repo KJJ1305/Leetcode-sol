@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KJJ1305/DSAqleet/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/KJJ1305/DSAqleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KJJ1305/DSAqleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KJJ1305/DSAqleet/tree/master/0342-power-of-four) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/KJJ1305/DSAqleet/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/KJJ1305/DSAqleet/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/KJJ1305/DSAqleet/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/KJJ1305/DSAqleet/tree/master/0621-task-scheduler) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KJJ1305/DSAqleet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/KJJ1305/DSAqleet/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/KJJ1305/DSAqleet/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/KJJ1305/DSAqleet/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/KJJ1305/DSAqleet/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/KJJ1305/DSAqleet/tree/master/0139-word-break) |
