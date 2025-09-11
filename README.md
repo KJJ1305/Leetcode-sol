@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/KJJ1305/DSAqleet/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/KJJ1305/DSAqleet/tree/master/0948-sort-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
