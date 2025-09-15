@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/KJJ1305/DSAqleet/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/KJJ1305/DSAqleet/tree/master/0900-reordered-power-of-2) |
 | [1039-find-the-town-judge](https://github.com/KJJ1305/DSAqleet/tree/master/1039-find-the-town-judge) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/KJJ1305/DSAqleet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/KJJ1305/DSAqleet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/KJJ1305/DSAqleet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/KJJ1305/DSAqleet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
