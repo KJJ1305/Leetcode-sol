@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KJJ1305/DSAqleet/tree/master/0435-non-overlapping-intervals) |
 | [0867-new-21-game](https://github.com/KJJ1305/DSAqleet/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/KJJ1305/DSAqleet/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KJJ1305/DSAqleet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KJJ1305/DSAqleet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KJJ1305/DSAqleet/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KJJ1305/DSAqleet/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/KJJ1305/DSAqleet/tree/master/0753-open-the-lock) |
+| [1250-longest-common-subsequence](https://github.com/KJJ1305/DSAqleet/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/KJJ1305/DSAqleet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KJJ1305/DSAqleet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/KJJ1305/DSAqleet/tree/master/2887-sort-vowels-in-a-string) |
